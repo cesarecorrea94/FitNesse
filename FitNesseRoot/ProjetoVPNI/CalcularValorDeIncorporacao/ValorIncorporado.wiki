@@ -1,0 +1,12 @@
+---
+Test
+---
+<test page>
+O sistema deve calcular o valor de incorporação, dada uma matrícula.
+Os atributos releventes serão alterados, e os demais devem permanecer inalterados.
+
+!| ActionFixture									|
+|start|fixtures.ValorIncorporadoActionFixtureTest	|
+|press| calcular valor								|
+|enter| Matrícula						| 18282		|
+|check| valor Incorporado				| 0			|

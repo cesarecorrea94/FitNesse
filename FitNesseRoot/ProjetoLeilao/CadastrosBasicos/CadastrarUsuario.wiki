@@ -1,0 +1,16 @@
+---
+Suites: Usuário
+Test
+---
+<test page>
+O sistema deve permitir o cadastro de usuários.
+- O sistema deve verificar se o CPF é valido, através do cálculo do digito verificador;
+- O sistema não deve permitir usuários com CPF iguais;
+
+!|fixtures.UsuarioColumnFixtureTest																											|
+| nome				| endereco				| email							| cpf			|cadastrar usuario()|verificar usuario existe() |
+| Ernani César		| Campus Universitário	| ernani.santos@posgrad.ufsc.br	|327.387.790-18	| true				| true						|
+| Douglas Hiura		| Campus Universitário	| douglas.hiura@posgrad.ufsc.br	|832.390.518-50	| true				| true						|
+| Patrícia Vilain	| Campus Universitário	| patricia.vilain@ufsc.br		|323.667.674-47	| true				| true						|
+| Patrícia Vilain	| Campus Universitário	| patricia.vilain@ufsc.br		|323.667.674-00	| false				| false						|
+| Patrícia Vilain	| Campus Universitário	| patricia.vilain@ufsc.br		|323.667.674-47	| false				| true						|

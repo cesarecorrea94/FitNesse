@@ -1,0 +1,9 @@
+---
+Suites: Limpar
+Test
+---
+<test page>
+!| ActionFixture                        |
+|start|fixtures.MercadoActionFixtureTest|
+|press| limpar mercado                  |
+|check| mercado limpado          | true |

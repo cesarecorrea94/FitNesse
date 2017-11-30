@@ -1,0 +1,10 @@
+---
+Suite
+Suites: Cadastros Básicos, Usuários, Produtos
+---
+!1 Test suite Cadastros Básicos
+!contents -R2 -g -p -f -h
+Suite de testes para validar as funcionalidades relacionadas a cadastros básicos. Serão validadas nesta suite as seguintes funcionalidades:
+
+ * Cadastro de Usuários;
+ * Cadastro de Produtos para Leilão;

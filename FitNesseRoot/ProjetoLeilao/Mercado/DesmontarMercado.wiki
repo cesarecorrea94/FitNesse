@@ -1,0 +1,9 @@
+---
+Suites: Desmontar
+Test
+---
+<test page>
+!| ActionFixture                        |
+|start|fixtures.MercadoActionFixtureTest|
+|press| desmontar mercado               |
+|check| mercado desmontado       | true |

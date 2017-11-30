@@ -1,0 +1,15 @@
+|ProjetoVPNI||11:44:14 Qui, nov 23, 2017|
+|ProjetoVPNI.CalcularValorDeIncorporacao||11:43:19 Qui, nov 23, 2017|
+|ProjetoVPNI.CalcularValorDeIncorporacao.ValorIncorporado||11:43:09 Qui, nov 23, 2017|
+|ProjetoVPNI.RetificarRegistroDeIncorporacao||11:23:49 Qui, nov 23, 2017|
+|ProjetoVPNI.RetificarRegistroDeIncorporacao.AlterarPercentualIncorporado||11:22:57 Qui, nov 23, 2017|
+|ProjetoVPNI.RetificarRegistroDeIncorporacao.AlterarCargo||11:22:45 Qui, nov 23, 2017|
+|FrontPage||09:09:48 Qui, nov 23, 2017|
+|ProjetoLeilao.CadastrosBasicos.CadastrarUsuario||11:25:02 Qui, nov 16, 2017|
+|ProjetoLeilao.Mercado.LimparMercado||10:59:47 Qui, nov 16, 2017|
+|ProjetoLeilao.Mercado.DesmontarMercado||10:56:41 Qui, nov 16, 2017|
+|ProjetoLeilao.Mercado.MontarMercado||10:49:41 Qui, nov 16, 2017|
+|ProjetoLeilao.Mercado||10:34:23 Qui, nov 16, 2017|
+|ProjetoLeilao.CadastrosBasicos||10:32:39 Qui, nov 16, 2017|
+|ProjetoLeilao||10:18:11 Qui, nov 16, 2017|
+|FrontPage.ProjetoLeilao||09:50:06 Qui, nov 16, 2017|

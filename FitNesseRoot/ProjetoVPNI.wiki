@@ -1,0 +1,17 @@
+!contents -R2 -g -p -f -h
+!1 '''Projeto VPNI'''
+O objetivo desta ferramenta é avaliar a capacidade de especificação.
+
+!2 Objetivo do Projeto
+ * Especificar Testes de Aceitação;
+
+Configuração da engine para execução dos testes 
+!define TEST_RUNNER {fitlibrary.suite.FitLibraryServer}
+
+Localização das Fixtures (glue code)
+!path /home/cesar/eclipse-workspace/INE5448-VPNI/bin/
+
+Biblioteca FitLibrary e dependências
+!path /home/cesar/eclipse-workspace/FitNesse/fitnesse-standalone.jar
+!path /home/cesar/eclipse-workspace/FitNesse/fitlibrary-2.0.jar
+!path /home/cesar/eclipse-workspace/FitNesse/log4j-1.2.17.jar

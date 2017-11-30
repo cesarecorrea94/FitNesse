@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>ProjetoLeilao.Mercado</rootPath>
+  <pageHistoryReference>
+    <name>ProjetoLeilao.Mercado.DesmontarMercado</name>
+    <date>2017-11-16T10:56:47-02:00</date>
+    <pageHistoryLink>ProjetoLeilao.Mercado.DesmontarMercado?pageHistory&amp;resultDate=20171116105647</pageHistoryLink>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>2</exceptions>
+    </counts>
+    <runTimeInMillis>2</runTimeInMillis>
+  </pageHistoryReference>
+  <pageHistoryReference>
+    <name>ProjetoLeilao.Mercado.MontarMercado</name>
+    <date>2017-11-16T10:56:47-02:00</date>
+    <pageHistoryLink>ProjetoLeilao.Mercado.MontarMercado?pageHistory&amp;resultDate=20171116105647</pageHistoryLink>
+    <counts>
+      <right>1</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>5</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>fit:fitlibrary.suite.FitLibraryServer</testSystem>
+    <command>java -cp /home/cesar/eclipse-workspace/TestLeilao_FitNesse/bin/:/home/cesar/eclipse-workspace/FitNesse/fitnesse-standalone.jar:/home/cesar/eclipse-workspace/FitNesse/fitlibrary-2.0.jar:/home/cesar/eclipse-workspace/FitNesse/log4j-1.2.17.jar fitlibrary.suite.FitLibraryServer cesar-Inspiron-3443 34707 3863</command>
+    <exitCode>2</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>1</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>1</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>510</totalRunTimeInMillis>
+</suiteResults>
+

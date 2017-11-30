@@ -1,0 +1,20 @@
+---
+Test
+---
+<test page>
+O sistema deve permitir a inclusão de um registro de retificação, que altere o cargo de uma dada matrícula.
+Os atributos releventes serão alterados conforme o cargo, e os demais devem permanecer inalterados.
+
+!| ActionFixture									|
+|start|fixtures.RetificacaoActionFixtureTest		|
+|press| mudar Cargo									|
+|enter| Matrícula						| 56236		|
+|enter| Cargo							| Chefe de Divisão |
+|check| Tipo VPNI						| 20		|
+|check| Percentual Incorporado			| 20.0		|
+|check| Valor Base Vencimento			|  6730.16	|
+|check| Valor Teto Salarial				| 16090.29	|
+|check| Valor Base Cargo Incorporacao	| 16090.29	|
+|check| Ativo							| true		|
+|check| Retificação						| true		|
+|check| registro Antigo Ativo			| false		|

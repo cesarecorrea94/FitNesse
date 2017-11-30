@@ -1,0 +1,6 @@
+---
+Suite
+---
+!1 Test suite Calcular Valor de Incorporação
+!contents -R2 -g -p -f -h
+Suite de testes para validar as funcionalidades relacionadas ao calculo do valor de incorporação.

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<testResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>ProjetoLeilao.Mercado.MontarMercado</rootPath>
+    <result>
+    <counts>
+      <right>0</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <date>2017-11-16T10:47:11-02:00</date>
+    <runTimeInMillis>4</runTimeInMillis>
+    <content>&lt;br/&gt;&amp;lt;test page&amp;gt;&lt;br/&gt;&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td&gt;ActionFixture&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+ |start|fixtures.MercadoActionFixtureTest|&lt;br/&gt; |press|montar mercado                   |&lt;br/&gt; |check|mercado montado           | true |&lt;br/&gt;</content>
+    <relativePageName>MontarMercado</relativePageName>
+        <tags>Montar</tags>
+          </result>
+  <executionLog>
+    <testSystem>fit:fitlibrary.suite.FitLibraryServer</testSystem>
+    <command>java -cp /home/cesar/eclipse-workspace/TestLeilao_FitNesse/bin/:/home/cesar/eclipse-workspace/FitNesse/fitnesse-standalone.jar:/home/cesar/eclipse-workspace/FitNesse/fitlibrary-2.0.jar:/home/cesar/eclipse-workspace/FitNesse/log4j-1.2.17.jar fitlibrary.suite.FitLibraryServer cesar-Inspiron-3443 44075 3863</command>
+    <exitCode>0</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>0</right>
+    <wrong>0</wrong>
+    <ignores>1</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>458</totalRunTimeInMillis>
+</testResults>
+

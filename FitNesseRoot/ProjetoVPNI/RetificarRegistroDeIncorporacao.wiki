@@ -1,0 +1,10 @@
+---
+Suite
+---
+!1 Test suite Retificar Registro de Incorporação
+!contents -R2 -g -p -f -h
+Suite de testes para validar as funcionalidades relacionadas a retificação de registros de incorporação.
+Serão validadas nesta suite as seguintes funcionalidades:
+
+ * Alteração de Percentual Incorporado;
+ * Alteração de Cargo;
